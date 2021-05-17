@@ -15,7 +15,7 @@ name = "blue_engine"
 crate-type = ["rlib"]
 
 [dependencies]
-winit = "0.24.0"
+winit = "0.25.0"
 cgmath = "0.18.0"
 futures = "0.3.13"
 image = "0.23.13"
